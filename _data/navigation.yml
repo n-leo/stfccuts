@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Media"
+    url: /media/
+
+  - title: "Parliament"
+    url: /parliament/
+
+  - title: "STFC"
+    url: /stfc/
+
+  - title: "Community"
+    url: /community/
